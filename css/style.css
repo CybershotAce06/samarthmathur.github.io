@@ -22,6 +22,12 @@ body {
   padding: 100px 8%;
   background: linear-gradient(180deg, #0f0f0f 0%, #121212 100%);
 }
+.hero {
+  padding-top: 140px;
+}
+html {
+  scroll-behavior: smooth;
+}
 
 .hero-content {
   max-width: 600px;

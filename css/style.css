@@ -14,6 +14,10 @@ body {
   color: #eaeaea;
   line-height: 1.65;
 }
+.cv-btn {
+  text-align: center;
+  margin-top: 24px;
+}
 
 .navbar {
   position: fixed;
